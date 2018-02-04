@@ -1,0 +1,24 @@
+.country-container {
+  border: 2px solid #212121;
+  max-width: 450px;
+  background: #F5F5F5;
+}
+
+.info-headers {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  border-right: 1px solid #212121;
+}
+
+.info-content {
+  -webkit-box-flex: 3;
+      -ms-flex: 3;
+          flex: 3;
+}
+
+.country-container img {
+  width: 90px;
+  border: 1px solid #212121;
+}
+/*# sourceMappingURL=style.css.map */
